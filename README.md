@@ -15,7 +15,7 @@ git add . # this adds everything
 
 Commit the new fiels 
 ```bash
-git commit -m "COMMIT MESSAGE"
+git commit -m "{COMMIT MESSAGE}"
 ```
 
 ---
