@@ -7,8 +7,8 @@ git status
 
 Add the new files
 ```bash
-git add {FILE NAME}
-# or `git add .` - this adds everything
+git add . # this adds everything
+# or `git add {FILE NAME}` - this adds only a file
 ```
 
 ---
